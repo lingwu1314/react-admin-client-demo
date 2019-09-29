@@ -1,0 +1,1 @@
+import Ract, {component} from 'react'
